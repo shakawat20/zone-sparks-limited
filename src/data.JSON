@@ -1,0 +1,562 @@
+
+    [
+        {
+            "id": 218,
+            "title": "Fashion Jewelry Statement Cross Earrings For Women Luxury Big Drop Dangle Earrings Long Earrings",
+            "slug": "fashionjewelrystatementcrossearringsforwomenluxurybigdropdangleearringslongearrings-fad10338-e0f4-4dbe-bcea-bd34bae2ff33",
+            "images": [
+                {
+                    "thumb": "/media/product_image/f4dehtu81bck9vfzd5ge2q7u_sm",
+                    "variant_id": 0
+                }
+            ],
+            "category": {
+                "cat": "Women’s Fashion",
+                "cat_slug": "womensfashion-c29dbcaf-1e6e-4422-9020-31dd64b17493",
+                "sub": "Jewellery",
+                "sub_slug": "jewellery-ebc1bc27-e4a9-4728-a49b-657d8fbefd28",
+                "imd": "Ear Rings",
+                "imd_slug": "earrings-ef05ca72-cead-4d19-81fd-1f2fb423e07c"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#896c96",
+                    "size": "L",
+                    "color": "LAVENDER",
+                    "image": 0,
+                    "stock": 2
+                }
+            ],
+            "selling_price": 600.0,
+            "marked_price": 1000.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        },
+        {
+            "id": 91,
+            "title": "JUST OF THE BEACH - Men's Cotton T-Shirt",
+            "slug": "justofthebeachmenscottontshirt-60092bb0-8ca5-4c2a-9bd7-f5d313803089",
+            "images": [
+                {
+                    "thumb": "/media/product_image/d9fbacq108zvxfu34f73dbm8_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/w9al2v9t1yg7lckyxwu73feh_sm",
+                    "variant_id": 1
+                }
+            ],
+            "category": {
+                "cat": "Men's Fashion",
+                "cat_slug": "mensfashion-e60be09c-e677-46e7-afc8-ecc6a10b30fb",
+                "sub": "T-Shirt",
+                "sub_slug": "tshirt-92b0c510-5b10-4560-8e38-7e0d5df5a40e",
+                "imd": "Half Sleeve",
+                "imd_slug": "halfsleeve-b3b89d42-613a-4d8b-9ce3-35cd7bc5b80d"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#d9a279",
+                    "size": "XL",
+                    "color": "ORANGE",
+                    "image": 0,
+                    "stock": 2
+                },
+                {
+                    "code": "#d9a279",
+                    "size": "XXL",
+                    "color": "ORANGE",
+                    "image": 0,
+                    "stock": 1
+                },
+                {
+                    "code": "#93b0ce",
+                    "size": "S",
+                    "color": "SEA BLUE",
+                    "image": 1,
+                    "stock": 1
+                },
+                {
+                    "code": "#93b0ce",
+                    "size": "L",
+                    "color": "SEA BLUE",
+                    "image": 1,
+                    "stock": 1
+                }
+            ],
+            "selling_price": 280.0,
+            "marked_price": 350.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        },
+        {
+            "id": 292,
+            "title": "There About Black Jeans",
+            "slug": "thereaboutblackjeans-16789eb9-8580-4fb4-819e-28c1ffcfdee9",
+            "images": [
+                {
+                    "thumb": "/media/product_image/ohofkfbav40c8a979mxty9yl_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/nwdh7w0k6ld9mv3maoqgfsq4_sm",
+                    "variant_id": 1
+                },
+                {
+                    "thumb": "/media/product_image/dk7fyoevejd7ju5oltmm13r0_sm",
+                    "variant_id": 2
+                }
+            ],
+            "category": {
+                "cat": "Men's Fashion",
+                "cat_slug": "mensfashion-e60be09c-e677-46e7-afc8-ecc6a10b30fb",
+                "sub": "Pant",
+                "sub_slug": "pant-3dbe9ce3-bc9a-4e88-844f-4d6f8c487b85",
+                "imd": "Jeans Pant",
+                "imd_slug": "jeanspant-6d33309a-60d1-4694-aeb3-ce84062d8f0a"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#3c3c3f",
+                    "size": "32",
+                    "color": "Black",
+                    "image": 0,
+                    "stock": 10
+                }
+            ],
+            "selling_price": 500.0,
+            "marked_price": null,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": true
+        },
+        {
+            "id": 295,
+            "title": "Dark Blue Jeans",
+            "slug": "darkbluejeans-8a1e2fc9-f3ec-4349-a924-70dd7720e8ba",
+            "images": [
+                {
+                    "thumb": "/media/product_image/ziafyftrkjn2hgbbr6jnr977_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/a4dam6l7rplw7zwtsqa14hhx_sm",
+                    "variant_id": 1
+                },
+                {
+                    "thumb": "/media/product_image/tr097ha4m984e1lslu6x72k4_sm",
+                    "variant_id": 2
+                }
+            ],
+            "category": {
+                "cat": "Men's Fashion",
+                "cat_slug": "mensfashion-e60be09c-e677-46e7-afc8-ecc6a10b30fb",
+                "sub": "Pant",
+                "sub_slug": "pant-3dbe9ce3-bc9a-4e88-844f-4d6f8c487b85",
+                "imd": "Jeans Pant",
+                "imd_slug": "jeanspant-6d33309a-60d1-4694-aeb3-ce84062d8f0a"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#31447c",
+                    "size": "14 Yrs",
+                    "color": "Dark Blue",
+                    "image": 0,
+                    "stock": 10
+                }
+            ],
+            "selling_price": 500.0,
+            "marked_price": null,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": true
+        },
+        {
+            "id": 66,
+            "title": "T25 TWS Earbuds",
+            "slug": "ttwsearbuds-f634d1e7-d9a7-4e47-a562-c8dd78cd3e73",
+            "images": [
+                {
+                    "thumb": "/media/product_image/ddn7rgo8f93ncx072qbhgnfz_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/u6dt30pewwrwu08sov9xsyku_sm",
+                    "variant_id": 1
+                }
+            ],
+            "category": {
+                "cat": "Electronic Devices",
+                "cat_slug": "electronicdevices-1d92bfaf-96c8-425f-9d79-32d9222e3f2e",
+                "sub": "Audio Devices",
+                "sub_slug": "audiodevices-f909f8eb-c6b2-4b41-ba30-8aa15a32a976",
+                "imd": "TWS Earphone",
+                "imd_slug": "twsearphone-8eacd64a-aecb-406e-84cd-0c845edc9916"
+            },
+            "brand": {
+                "title": "Authentic",
+                "slug": "authentic-ab2d27f9-41b1-4104-8b81-d7ce4966781d"
+            },
+            "variants": [
+                {
+                    "code": "#272727",
+                    "size": "N/A",
+                    "color": "Black",
+                    "image": 0,
+                    "stock": 10
+                }
+            ],
+            "selling_price": 650.0,
+            "marked_price": 720.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": true
+        },
+        {
+            "id": 319,
+            "title": "Fleece Blue Denim",
+            "slug": "fleecebluedenim-9e38772b-e0f0-41c8-a0bd-803dfda62a14",
+            "images": [
+                {
+                    "thumb": "/media/product_image/jr07fxacr7kwgwof7d2fjj58_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/bhz3w5y5i3j31tkoib8jzqw8_sm",
+                    "variant_id": 1
+                },
+                {
+                    "thumb": "/media/product_image/kygyoxeiv3vecmweegf2k5jc_sm",
+                    "variant_id": 2
+                }
+            ],
+            "category": {
+                "cat": "Mom & Baby",
+                "cat_slug": "mombaby-e023180a-a56e-4a10-8a46-5b68b17b1000",
+                "sub": "Kid's Pant",
+                "sub_slug": "kidspant-fd10fd85-2892-4f24-96d5-da19095685c3",
+                "imd": "Jeans",
+                "imd_slug": "jeans-e6752d6d-6f4b-431c-95d5-0476b9ed5c9d"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#4d6188",
+                    "size": "24",
+                    "color": "Blue",
+                    "image": 0,
+                    "stock": 2
+                }
+            ],
+            "selling_price": 500.0,
+            "marked_price": null,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": true
+        },
+        {
+            "id": 236,
+            "title": "Peacock Design Rajasthani Necklace . Thewa Work Gold Gilt Silver Necklace",
+            "slug": "peacockdesignrajasthaninecklacethewaworkgoldgiltsilvernecklace-15d4cccd-a5fa-4658-aa18-eb59c984fdb3",
+            "images": [
+                {
+                    "thumb": "/media/product_image/lb4qj11s73yw5h43alye43i5_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/ts4bqpzi9oa0mlu5oehcwr7w_sm",
+                    "variant_id": 1
+                }
+            ],
+            "category": {
+                "cat": "Women’s Fashion",
+                "cat_slug": "womensfashion-c29dbcaf-1e6e-4422-9020-31dd64b17493",
+                "sub": "Jewellery",
+                "sub_slug": "jewellery-ebc1bc27-e4a9-4728-a49b-657d8fbefd28",
+                "imd": "Neckless",
+                "imd_slug": "neckless-f900c48f-192f-49ee-b66c-905ff6e2d9ca"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#171a1a",
+                    "size": "N/A",
+                    "color": "BLACK",
+                    "image": 0,
+                    "stock": 1
+                }
+            ],
+            "selling_price": 300.0,
+            "marked_price": 500.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        },
+        {
+            "id": 229,
+            "title": "WHITE BLACK DOT Design Summer Short-Sleeve Top and Shorts Two-Piece Set for Girls",
+            "slug": "whiteblackdotdesignsummershortsleevetopandshortstwopiecesetforgirls-1a6d647f-3b99-4fe7-9806-58d6ad5f37a3",
+            "images": [
+                {
+                    "thumb": "/media/product_image/f4g19togq2poeufwq08dkhhd_sm",
+                    "variant_id": 0
+                }
+            ],
+            "category": {
+                "cat": "Mom & Baby",
+                "cat_slug": "mombaby-e023180a-a56e-4a10-8a46-5b68b17b1000",
+                "sub": "Kid's Tops & Pants",
+                "sub_slug": "kidstopspants-0217e9ae-b898-4e53-b82b-6d7a60566edb",
+                "imd": "Girls",
+                "imd_slug": "girls-65f7a414-6bda-4163-a903-098949b73ae4"
+            },
+            "brand": {
+                "title": "Frugi",
+                "slug": "frugi-2f504cb0-38b0-4af2-a07d-49b2aaac6d77"
+            },
+            "variants": [
+                {
+                    "code": "#e5e7e6",
+                    "size": "6M",
+                    "color": "CREAM",
+                    "image": 0,
+                    "stock": 50
+                },
+                {
+                    "code": "#e5e7e6",
+                    "size": "1-2Y",
+                    "color": "CREAM",
+                    "image": 0,
+                    "stock": 36
+                },
+                {
+                    "code": "#e5e7e6",
+                    "size": "3-4Y",
+                    "color": "CREAM",
+                    "image": 0,
+                    "stock": 24
+                }
+            ],
+            "selling_price": 250.0,
+            "marked_price": 300.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        },
+        {
+            "id": 173,
+            "title": "Pure Cotton Sharee for Women",
+            "slug": "purecottonshareeforwomen-0125e32c-908d-4864-a4c4-1741f23cea6a",
+            "images": [
+                {
+                    "thumb": "/media/product_image/pujigphyef48c1h2b1strobr_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/sqpxvbko0dc3w3nyvh0ndimw_sm",
+                    "variant_id": 1
+                }
+            ],
+            "category": {
+                "cat": "Women’s Fashion",
+                "cat_slug": "womensfashion-c29dbcaf-1e6e-4422-9020-31dd64b17493",
+                "sub": "Sharee",
+                "sub_slug": "sharee-1d5601d9-c7be-49f2-ab36-a59f4ce0a3c0",
+                "imd": "Rajshahi Silk Saree",
+                "imd_slug": "rajshahisilksaree-5601ee2a-0846-4f5a-a7a4-edfd5f983154"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#323987",
+                    "size": "N/A",
+                    "color": "ROYAL BLUE",
+                    "image": 0,
+                    "stock": 1
+                },
+                {
+                    "code": "#d74589",
+                    "size": "N/A",
+                    "color": "MAROON",
+                    "image": 1,
+                    "stock": 1
+                }
+            ],
+            "selling_price": 999.0,
+            "marked_price": 1250.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        },
+        {
+            "id": 192,
+            "title": "Ethnic Boho Long Necklace For Girls, Antique Style Sweater Chain, Creative Necklace",
+            "slug": "ethnicboholongnecklaceforgirlsantiquestylesweaterchaincreativenecklace-0e35fca8-c157-4bce-b539-40a7c31859ca",
+            "images": [
+                {
+                    "thumb": "/media/product_image/h3kjt1zvve5hnm58wkgj67uw_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/v8xnje129s11g0yajbodkla2_sm",
+                    "variant_id": 1
+                }
+            ],
+            "category": {
+                "cat": "Women’s Fashion",
+                "cat_slug": "womensfashion-c29dbcaf-1e6e-4422-9020-31dd64b17493",
+                "sub": "Jewellery",
+                "sub_slug": "jewellery-ebc1bc27-e4a9-4728-a49b-657d8fbefd28",
+                "imd": "Neckless",
+                "imd_slug": "neckless-f900c48f-192f-49ee-b66c-905ff6e2d9ca"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#4f2708",
+                    "size": "N/A",
+                    "color": "MULTI",
+                    "image": 0,
+                    "stock": 1
+                },
+                {
+                    "code": "#3c6991",
+                    "size": "N/A",
+                    "color": "MULTI",
+                    "image": 1,
+                    "stock": 1
+                }
+            ],
+            "selling_price": 435.0,
+            "marked_price": 600.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        },
+        {
+            "id": 315,
+            "title": "TA Wash Jeans",
+            "slug": "tawashjeans-32a4f530-b59f-4198-a674-df9effa5f987",
+            "images": [
+                {
+                    "thumb": "/media/product_image/ut7cvu61s7endewqw8w2cnxn_sm",
+                    "variant_id": 0
+                },
+                {
+                    "thumb": "/media/product_image/bz8mtft9y4axepv0gcqyjgwj_sm",
+                    "variant_id": 1
+                },
+                {
+                    "thumb": "/media/product_image/jt5ycwysmf0g3w7nl0p2psqt_sm",
+                    "variant_id": 2
+                }
+            ],
+            "category": {
+                "cat": "Mom & Baby",
+                "cat_slug": "mombaby-e023180a-a56e-4a10-8a46-5b68b17b1000",
+                "sub": "Kid's Pant",
+                "sub_slug": "kidspant-fd10fd85-2892-4f24-96d5-da19095685c3",
+                "imd": "Jeans",
+                "imd_slug": "jeans-e6752d6d-6f4b-431c-95d5-0476b9ed5c9d"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#1f3a6f",
+                    "size": "24",
+                    "color": "Blue",
+                    "image": 0,
+                    "stock": 3
+                },
+                {
+                    "code": "#1f3a6f",
+                    "size": "26",
+                    "color": "Blue",
+                    "image": 0,
+                    "stock": 2
+                },
+                {
+                    "code": "#1f3a6f",
+                    "size": "28",
+                    "color": "Blue",
+                    "image": 0,
+                    "stock": 1
+                }
+            ],
+            "selling_price": 500.0,
+            "marked_price": null,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": true
+        },
+        {
+            "id": 71,
+            "title": "High glossy Spruce top 39 Inches Classical Guitar Full Size Beginner",
+            "slug": "highglossysprucetopinchesclassicalguitarfullsizebeginner-9d382b0f-0b6e-4e43-ac2b-a668e11108fe",
+            "images": [
+                {
+                    "thumb": "/media/product_image/ke1ukmvwh4wr0ti10wtxk72k_sm",
+                    "variant_id": 0
+                }
+            ],
+            "category": {
+                "cat": "Musical Instruments",
+                "cat_slug": "musicalinstruments-15688f58-a053-457a-b139-09f32f8e3593",
+                "sub": "Guitar",
+                "sub_slug": "guitar-2b7d06a2-7c0a-4a7b-b29b-253d3a514d76",
+                "imd": "Regular Guitar",
+                "imd_slug": "regularguitar-c4ba62b9-c246-435e-aaaf-ed52091fad5f"
+            },
+            "brand": {
+                "title": "No Brand",
+                "slug": "nobrand-a38d3ac8-79c5-470b-8e10-041b76465981"
+            },
+            "variants": [
+                {
+                    "code": "#d08f15",
+                    "size": "39",
+                    "color": "YELLOW",
+                    "image": 0,
+                    "stock": 1
+                }
+            ],
+            "selling_price": 7500.0,
+            "marked_price": 9000.0,
+            "num_reviews": 0,
+            "rating": null,
+            "new_arrival": false
+        }
+    ]
