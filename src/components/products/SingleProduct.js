@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 
 const SingleProduct = ({ singleProductData }) => {
     const [cartData, setCartData, addToCart, deleteFromCart] = useCart()
+    console.log(singleProductData)
     if (!singleProductData) {
         return (<div>Loading</div>)
     }
@@ -12,8 +13,9 @@ const SingleProduct = ({ singleProductData }) => {
     console.log("singproductdata", singleProductData)
 
     return (
-        <div className="card w-96 bg-base-100 shadow-xl">
-            <div className="text-right cursor-pointer" onClick={()=>deleteFromCart(singleProductData.id)} style={{ width: "2%", position: "relative", top: "1%", left: "95%", height: "4px", backgroundColor: "transparent" }}>X</div>
+        <div className='flex justify-center item-center'>
+            <div className="card w-96 bg-base-100 shadow-xl">
+            <div className="text-right cursor-pointer" onClick={() => deleteFromCart(singleProductData.id)} style={{ width: "2%", position: "relative", top: "1%", left: "95%", height: "4px", backgroundColor: "transparent" }}>X</div>
             <figure>
                 <img src={`https://summerfield.store${singleProductData?.product?.images[0]?.thumb}`} alt={singleProductData.product.title} />
             </figure>
@@ -22,8 +24,18 @@ const SingleProduct = ({ singleProductData }) => {
                 <p className="text-2xl">Quantity: {singleProductData?.quantity}</p>
                 <p className="font-bold text-2xl">Price: {singleProductData?.product.selling_price} $</p>
             </div>
-            <Link to={`/relatedProducts/${singleProductData.id}`} className="block w-full h-full absolute top-0 left-0"></Link>
+           
+            <Link to={`/relatedProducts/${encodeURIComponent(JSON.stringify(singleProductData))}`} className="block w-full h-full">
+               <button className='btn '>Product review
+                </button> 
+                
+                </Link>
+           
+                
+            
         </div>
+        </div>
+        
 
     );
 };

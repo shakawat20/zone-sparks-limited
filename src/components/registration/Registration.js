@@ -8,7 +8,7 @@ const Registration = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
     const [image, setImage] = useState(null);
-    //   const navigate = useNavigate();
+      const navigate = useNavigate();
     const data={
             first_name: firstName,
             last_name: lastName,
@@ -45,14 +45,20 @@ const Registration = () => {
 
         // Perform registration logic here, including image upload
 
+        // Reset form fields after successful registration
+        setFirstName('');
+        setLastName('');
+        setEmail('');
+        setPassword('');
+        setImage(null);
+
+        // Navigate to dashboard after successful registration
+        navigate('/'); // Navigate to your dashboard route
         try {
             // Your registration logic goes here
             console.log('Registration data:', { firstName, lastName, email, password, image });
 
-            // Example: Register user with email and password
-            // await createUserWithEmailAndPassword(email, password);
-
-            // Navigate to dashboard after successful registration
+           
 
         } catch (error) {
             console.error('Registration Error:', error);

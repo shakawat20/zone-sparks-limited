@@ -13,7 +13,7 @@ const Product = ({ productData }) => {
 
     return (
         
-            <div className="card card-side bg-base-100 shadow-xl w-3/5 flex flex-col mt-4">
+            <div className="card card-side bg-base-100 shadow-xl w-3/5 flex flex-col mt-4 pb-3">
                 <figure>
                     <img className='w-3/4' src={`https://summerfield.store${productData?.images[0]?.thumb}`} alt={productData?.title} />
                 </figure>

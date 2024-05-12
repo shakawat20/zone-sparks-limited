@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import Products from '../products/Products';
 import Product from '../products/Product';
 
-const Shop = ({products,setProducts}) => {
+const Shop = ({products}) => {
     // const [products, setProducts] = useState([]);
     const [filteredProducts, setFilteredProducts] = useState([]);
     const [category, setCategory] = useState('');
@@ -11,7 +11,7 @@ const Shop = ({products,setProducts}) => {
     const [brand, setBrand] = useState('');
     const [priceRange, setPriceRange] = useState({ min: 0, max: 1000 });
     const [searchQuery, setSearchQuery] = useState('');
-
+useEffect(()=>{},[products])
     // useEffect(() => {
     //     // Fetch products from API
     //     fetch('https://summerfield.store/products/?format=json')
@@ -67,9 +67,7 @@ const Shop = ({products,setProducts}) => {
         setPriceRange({ min: 0, max: 1000 });
         setSearchQuery('');
     };
-if(!products){
-<div>Loading</div>
-}
+ 
     return (
         <div>
             <div className="flex justify-center ">
@@ -152,8 +150,8 @@ if(!products){
                 />
             </div>
             <div className="shop-container  " >
-                <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 p-4" style={{justifyContent:"center"}}>
-                    {filteredProducts.map(product => (
+                <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 p-4" style={{justifyContent:"center"}}>
+                    {filteredProducts && filteredProducts.map(product => (
                         <Product
                             productData={product}
                         />
